@@ -3,9 +3,9 @@
 
 <br/>
 
-- 👨‍🎓 I'm a Graduate student at **Northwest Missouri State University**
+- 👨‍🎓 I'm a Java Developer at **Walmart**
 
-- 💻 I’m currently learning **Full Stack Development**    
+- 💻 I’m currently deep diving **Full Stack Development**    
     
 - 🚧 Have a look at my Android application on the Playstore [Here](https://play.google.com/store/apps/dev?id=6887675592147838937&hl=en_US&gl=US)  
   
